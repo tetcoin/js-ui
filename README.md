@@ -1,1 +1,1 @@
-# Parity UI component library
+# Tetsy UI component library
