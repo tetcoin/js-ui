@@ -1,6 +1,6 @@
 {
-  "name": "@parity/ui",
-  "description": "Parity React UI components",
+  "name": "tetsy.ui",
+  "description": "Tetsy React UI components",
   "version": "3.0.22",
   "main": "lib/index.js",
   "module": "src/index.js",
